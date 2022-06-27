@@ -1,1 +1,1 @@
-describimg what each script does
+My first redirection readme
