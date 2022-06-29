@@ -1,1 +1,1 @@
-0. <o> > Create a script that creates an alias.
+Task 0. <o> > Create a script that creates an alias.
